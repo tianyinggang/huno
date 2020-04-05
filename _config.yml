@@ -1,8 +1,11 @@
 # Header
 menu:
   首页: /#blog
-  关于: /about
-  归档: /archive
+  诚以铖: /cyc
+  田迎港: /about
+  王汝: /wr
+  吴凡: /wf
+  朱国滨: /zgb
 
 # Site favicon
 favicon: /favicon.png
